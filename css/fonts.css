@@ -21,6 +21,45 @@
   font-weight: normal;
 }
 
+/* fira sans
+*/
+@font-face {
+  font-family: "firasans-regular";
+  src: url("../fonts/firasans/FiraSans.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "firasans-bold";
+  src: url("../fonts/firasans/FiraSans-Bold.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "firasans-medium";
+  src: url("../fonts/firasans/FiraSansMedium.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "firasans-medium-italic";
+  src: url("../fonts/firasans/FiraSansMedium-Italic.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "firasans-light";
+  src: url("../fonts/firasans/FiraSansLight.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "firasans-italic";
+  src: url("../fonts/firasans/FiraSans-Italic.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
 /*
  * metropolis
 ================================================================================ */
